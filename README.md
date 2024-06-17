@@ -1,1 +1,1 @@
-Welcome. I'm currently finishing up a B.S. in computer science from Seattle University. I have enjoyed my work during the numerous Game Jams I participated in, especially while working on features that improved usability, and other aspects of the user experience.
+Welcome. I recently finished a B.S. in computer science from Seattle University. I have enjoyed my work during the numerous Game Jams I participated in, especially while working on features that improved usability, and other aspects of the user experience.
